@@ -1,13 +1,22 @@
+body {
+  background: #b3adfd;
+}
+
 h1 {
   text-align: center;
+  color: rgb(15, 6, 56);
 }
 p {
-  margin: 30px;
-  text-align: justify;
+  margin: 70px;
+  text-align: center;
 }
-body {
-  background-color: rgb(66, 66, 146);
-}
+
 .cro {
   max-width: 500px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+a {
+  color: green;
 }
