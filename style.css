@@ -14,7 +14,7 @@ p {
   margin: 30px auto;
 }
 a {
-  color: green;
+  color: green !important;
 }
 body {
   background: burlywood !important;
