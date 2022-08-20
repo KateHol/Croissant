@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+p {
+  margin: 30px;
+  text-align: justify;
+}
+body {
+  background-color: rgb(66, 66, 146);
+}
+.cro {
+  max-width: 500px;
+}
